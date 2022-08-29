@@ -1,5 +1,7 @@
 version 1.0
 
+# Minor change for testing purposes
+
 ## Copyright Broad Institute, 2018
 ##
 ## This WDL defines utility tasks used for processing of sequencing data.
